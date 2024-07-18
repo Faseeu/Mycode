@@ -1,0 +1,6 @@
+<!-- fragment_file_explorer.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/file_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
